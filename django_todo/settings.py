@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-uoi@3r!olgs(u+1jokwh24+!7y04=dm6u%)o#)7!-f*(&690sq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dhruti-django-app.herokuapp.com']
 
 
 # Application definition
